@@ -44,4 +44,8 @@
 
 ![Instance details](Screenshot Instance.png)
 
+##Hostname change
 
+ -I used the sudo hostname "name" command to change the name
+
+![New Hostname made](Screenshot hostname.png)
